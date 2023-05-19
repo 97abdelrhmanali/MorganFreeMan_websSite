@@ -1,0 +1,166 @@
+@keyframes para_anieme{
+/* ***************** ceo ****************************** */
+    0%{ content: "C|";}
+    1%{ content: "CE|";}
+    2%{ content: "CEO|";}
+    3%{ content: "CEO |";}
+    4%{ content: "CEO D|";}
+    5%{ content: "CEO De|";}
+    6%{ content: "CEO Dev|";}
+    7%{ content: "CEO DevF|";}
+    8%{ content: "CEO DevFo|";}
+    9%{ content: "CEO DevFol|";}
+    10%{ content: "CEO DevFoli|";}
+    11%{ content: "CEO DevFolio|";}
+    14%{ content: "CEO DevFolio";}
+    16%{ content: "CEO DevFolio|";}
+    18%{ content: "CEO DevFolio";}
+    19%{ content: "CEO DevFol|";}
+    20%{ content: "CEO Dev|";}
+    21%{ content: "CEO|";}
+    22%{ content: "CE|";}
+    23%{ content: "|";}
+
+/*       /////////////////////////// web //////////////////////////////////// */
+    24%{ content: "W|";}
+    25%{ content: "We|";}
+    26%{ content: "Web|";}
+    27%{ content: "Web |";}
+    28%{ content: "Web De|";}
+    29%{ content: "Web Dev|";}
+    30%{ content: "Web Deve|";}
+    31%{ content: "Web Devel|";}
+    32%{ content: "Web Develo|";}
+    33%{ content: "Web Develop|";}
+    34%{ content: "Web Develope|";}
+    35%{ content: "Web Developer|";}
+    38%{ content: "Web Developer";}
+    40%{ content: "Web Developer|";}
+    41%{ content: "Web Devel|";}
+    42%{ content: "Web Deve|";}
+    43%{ content: "Web D|";}
+    44%{ content: "Web |";}
+/* ************************* design/////////////////////// */
+    45%{ content: "Web D|";}
+    46%{ content: "Web De|";}
+    47%{ content: "Web Des|";}
+    48%{ content: "Web Desi|";}
+    49%{ content: "Web Desig|";}
+    50%{ content: "Web Design|";}
+    51%{ content: "Web Designe|";}
+    52%{ content: "Web Designer|";}
+    54%{ content: "Web Designer";}
+    56%{ content: "Web Designer|";}
+    57%{ content: "Web Design|";}
+    58%{ content: "Web Des|";}
+    59%{ content: "Web |";}
+    60%{ content: "W|";}
+    61%{ content: "|";}
+/* /fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff */
+    62%{ content: "F|";}
+    63%{ content: "Fro|";}
+    64%{ content: "Fron|";}
+    65%{ content: "Fronte|";}
+    66%{ content: "Frontend|";}
+    67%{ content: "Frontend D|";}
+    68%{ content: "Frontend Dev|";}
+    69%{ content: "Frontend Devel|";}
+    70%{ content: "Frontend Develop|";}
+    71%{ content: "Frontend Develope|";}
+    72%{ content: "Frontend Developer|";}
+    74%{ content: "Frontend Developer";}
+    76%{ content: "Frontend Developer|";}
+    77%{ content: "Frontend Develo|";}
+    78%{ content: "Frontend De|";}
+    79%{ content: "Frontend|";}
+    80%{ content: "Fron|";}
+    81%{ content: "F|";}
+    82%{ content: "|";}
+
+
+/* gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg */
+    83%{content: "G|";}
+    84%{content: "Gra|";}
+    85%{content: "Grap|";}
+    86%{content: "Graphi|";}
+    87%{content: "Graphic|";} 
+    88%{ content: "Graphic D|";}
+    89%{ content: "Graphic De|";}
+    90%{ content: "Graphic Desi|";}
+    91%{ content: "Graphic Desig|";}
+    92%{ content: "Graphic Designe|";}
+    93%{ content: "Graphic Designer|";}
+    95%{ content: "Graphic Designer";}
+    97%{ content: "Graphic Designer|";}
+    98%{ content: "Graphic Design|";}
+    99%{ content: "Graphic D|";}
+    100%{ content: "G|";}
+    
+    
+    
+    
+}
+
+
+
+
+@keyframes num450{
+    0%{content: "0";}
+    10%{content: "50";}
+    20%{content: "100";}
+    30%{content: "150";}
+    40%{content: "200";}
+    50%{content: "250";}
+    60%{content: "300";}
+    70%{content: "350";}
+    80%{content: "400";}
+    90%{content: "425";}
+    100%{content: "450";}
+}
+
+
+
+
+@keyframes num36{
+    0%{content: "0";}
+    10%{content: "5";}
+    20%{content: "10";}
+    30%{content: "20";}
+    40%{content: "25";}
+    50%{content: "27";}
+    60%{content: "29";}
+    70%{content: "30";}
+    80%{content: "32";}
+    90%{content: "34";}
+    100%{content: "36";}
+}
+
+
+@keyframes num15{
+    0%{content: "0";}
+    10%{content: "1";}
+    20%{content: "3";}
+    30%{content: "5";}
+    40%{content: "7";}
+    50%{content: "9";}
+    60%{content: "11";}
+    70%{content: "12";}
+    80%{content: "13";}
+    90%{content: "14";}
+    100%{content: "15";}
+}
+
+
+@keyframes num550{
+    0%{content: "0";}
+    10%{content: "50";}
+    20%{content: "150";}
+    30%{content: "200";}
+    40%{content: "300";}
+    50%{content: "350";}
+    60%{content: "400";}
+    70%{content: "450";}
+    80%{content: "500";}
+    90%{content: "525";}
+    100%{content: "550";}
+}

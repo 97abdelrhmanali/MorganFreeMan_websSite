@@ -1,0 +1,42 @@
+.meterh{
+    height: 100%;
+}
+
+
+.htmlw{
+    width: 85%;
+}
+
+.javaw{
+    width: 90%;
+}
+
+
+.heightm{
+    height: 15px;
+}
+
+
+.hw{
+    position: relative;
+}
+.hw::after{
+    content: "";
+    width: 15%;
+    height: 3px;
+    background-color: #0078ff;
+    position: absolute;
+
+    top: 110%;
+    left: 0%;
+}
+
+.par{
+    margin-top: 1rem;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
+
+
+
+

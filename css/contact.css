@@ -1,0 +1,46 @@
+.contact{
+    background-image:linear-gradient( #0078ff9e, #0077ff9e), url(../img/overlay-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.contact .head{
+    position: relative;
+}
+
+.contact .head::after{
+    content: "";
+    width: 15%;
+    height: 3px;
+    background-color: #0078ff;
+    position: absolute;
+
+    top: 110%;
+    left: 0%;
+
+}
+
+
+.i{
+    height: 60px;
+    width: 60px;
+    font-size: 1.7rem;
+    transition: all 1s;
+}
+
+
+.i:hover{
+    background-color: #0078ff;
+    color: white;
+
+}
+
+
+
+
+
+/* .hhhh{
+    width: 50%;
+} */

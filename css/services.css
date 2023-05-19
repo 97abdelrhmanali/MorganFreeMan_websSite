@@ -1,0 +1,87 @@
+.hr{
+    position: relative;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+
+.hr::after{
+    content: "";
+    width: 5%;
+    height: 4px;
+    background-color: #0078ff;
+    position: absolute;
+
+    top: 150%;
+    left: 48%;
+}
+
+.icon{
+    font-size: 4rem;
+    border: #0078ff solid 8px ;
+    width: 40%;
+    transition: all 1s;
+    color: #000;
+}
+
+.i{
+    transition: all 1s;
+}
+
+
+.icon_color:hover .icon{
+    border: #c8dcf3 solid 8px;
+    background-color: #0078ff !important;
+    color: white;
+}
+
+.icon_color:hover .icon .i{  
+    background-color: #0078ff;
+}
+
+
+
+.fixed_photo{
+    background-image:linear-gradient( #0078ff9e, #0077ff9e), url(../img/counters-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+.fixed_photo .container .num_anime450 h3::before{
+    content: "450";
+    font-size: 3rem;
+    animation: num450 2s ;
+}
+
+.fixed_photo .container .num_anime15 h3::before{
+    content: "15";
+    font-size: 3rem;
+    animation: num15 2s ;
+}
+
+
+.fixed_photo .container .num_anime550 h3::before{
+    content: "550";
+    font-size: 3rem;
+    animation: num550 2s ;
+}
+
+
+
+.fixed_photo .container .num_anime36 h3::before{
+    content: "36";
+    font-size: 3rem;
+    animation: num36 2s ;
+}
+
+
+.fixed_photo .container .icon{
+    border: #c8dcf3 solid 8px;
+    color: #c8dcf3;
+    font-size: 4rem;   
+}
